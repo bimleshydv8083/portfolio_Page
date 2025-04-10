@@ -158,7 +158,15 @@ body {
     }
 }
 
-/*Qualifications-->*/
+.about-section {
+  text-align: center;
+  padding: 2rem;
+}
+
+.qualification-timeline {
+  text-align: center;
+}
+
 section {
     max-width: 900px;
     margin: auto;
@@ -685,26 +693,36 @@ h2 {
     }
   }
 
+/* ==== FOOTER STYLING ==== */
+
 footer {
-    background-color: #1a1a2e;
-    color: #ccc;
-    padding: 1.5rem 1rem;
-    text-align: center;
-    font-size: 0.9rem;
-    border-top: 1px solid #333;
-    position: relative;
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+  background-color: #1a1a2e;
+  color: #ccc;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1rem;
+  border-top: 1px solid #333;
+  position: relative;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+  margin-top: 3rem;
+  width: 100%;
+}
+
+.footer-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .footer-container p {
-    margin: 5px 0;
-    color: #aaa;
-    font-size: 0.95rem;
-    transition: color 0.3s ease;
+  margin: 5px 0;
+  color: #aaa;
+  font-size: 1rem;
+  transition: color 0.3s ease;
 }
 
 .footer-container p:hover {
-    color: #ff69b4;
+  color: #ff69b4;
 }
 
 #scrollToTopBtn {
