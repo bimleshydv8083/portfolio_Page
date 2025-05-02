@@ -37,7 +37,7 @@ I'm a passionate **web developer** with knowledge in front-end technologies and 
 
 ## 🌐 Live Demo
 
-> 🔗 [Visit my portfolio](https://bimleshydv8083.github.io/portfolio_Page/)  
+> 🔗 [Visit my portfolio](https://bimleshydv8083.github.io/portfolio/)  
 
 
 ---
